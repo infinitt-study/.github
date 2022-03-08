@@ -1,3 +1,1 @@
-#hello
-
-test main dis
+this is study for infinitt healthcare.
